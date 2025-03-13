@@ -3,6 +3,10 @@
     "version": "2.0.0",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/theeradech-d/baysignjs"
+    },
     "scripts": {
         "build": "tsc"
     },
